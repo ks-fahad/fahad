@@ -1,0 +1,139 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "title": "Online Tour and Travels Management System Bus Ticket",
+            "image": "https://i.ibb.co/cb4ZGCt/image.png",
+            "tools": [
+                "JAVA",
+                "Java Swing",
+                "MySQL"
+            ],
+            "date": "2021-09-15",
+            "links": ["https://github.com/ks-fahad/Online-Bus-Ticket-using-Java",""],
+            "description": "In this project, we have two modules: admin, and user. The admin has the authority to add the bus routes by assigning the route and bus name. He also adds the buses at particular times in different routes. Admin will also add the different travel agencies and while adding buses admin will fix the ticket price and the capacity of seats.The user will register and log in and then find the appropriate routes and using the route id he will search the bus by giving all details like date of journey and type of seat, etc. After selecting the information the user will be booking confirmation will be shown."
+        },
+        {
+            "id": 1,
+            "title": "Ubuntu (Linux) OS File Management",
+            "image": "https://i.ibb.co/znRXYMh/project-diagram.jpg",
+            "tools": [
+                "Ubuntu",
+                "Shell Script",
+                "GUI: Zenity"
+            ],
+            "date": "2022-05-22",
+            "links":  ["https://github.com/ks-fahad/File-management-system-with-Linux-Zenity",""],
+            "description": "The file management system in the operating system, project has some important features with a user interface of file system-related operations such as file creation, file saving, view file contents, file properties, file deletion, and other necessary features of the file system."
+        },
+        {
+            "id": 2,
+            "title": "Web-Based Online exam system",
+            "image": "https://i.ibb.co/RgNwZVk/image.png",
+            "tools": [
+                "PHP",
+                "JavaScript",
+                "MySQL"
+            ],
+            "date": "2022-12-25",
+            "links":  ["https://github.com/ks-fahad/OnlineExam","https://online-exam-smoky.vercel.app/"],
+            "description": "Online exam system using a form with multiple features like add, delete, and update topics and questions. The user will automatically get an updated version by logging in using the user ID and password provided during registration."
+        },
+        {
+            "id": 3,
+            "title": "Transport Service System in Bangladesh",
+            "image": "https://i.ibb.co/dQLGwFZ/image.png",
+            "tools": [
+                "JavaScript",
+                "PHP",
+                "AJAX",
+                "MySQL"
+            ],
+            "date": "2023-04-14",
+            "links":  ["https://github.com/ks-fahad/Transport_Service_SystemBD","https://transport-service-system-bd.vercel.app/"],
+            "description": "The road network of Bangladesh includes the most important features for the users of the transport service system for passengers and bus operators. Some features included in this project are a Home page with various options such as search, payment, and chat with operator options. Here seats can be booked by selecting and booking can be canceled at a certain time. On the other hand, the operator has a lot of options to operate their buses as well as passenger operations."
+        },
+        {
+            "id": 4,
+            "title": "Bangla Handwritten Word Recognition",
+            "image": "https://i.ibb.co/7yGZsDh/image.png",
+            "tools": [
+                "python",
+                "OpenCV",
+                "Keras",
+                "CNN",
+                "ipywidgets"
+            ],
+            "date": "2023-06-21",
+            "links": ["https://github.com/ks-fahad/Bangla_Handwritten_Recognition",""],
+            "description": "This project is an AI related project about word recognition where input will be handwritten images or drawn words. This project mainly focuses on only one language which is Bangla."
+        },
+        {
+            "id": 5,
+            "title": "Portfolio Design",
+            "image": "https://i.ibb.co/TmCpDnH/image.png",
+            "tools": [
+                "Bootstrap",
+                "React JS"
+            ],
+            "date": "2023-10-15",
+            "links":  ["https://github.com/ks-fahad/portfolio","https://portfolio-psi-henna-68.vercel.app/"],
+            "description": "This is simple porftfolio design with Bootstrap."
+        },
+        {
+            "id": 6,
+            "title": "Bangla ChatBot",
+            "image": "",
+            "tools": [
+                "JavaScript",
+                "CSS",
+                "python"
+            ],
+            "date": "2023-11-20",
+            "links":  ["https://github.com/ks-fahad/Chatbot","https://chatbotbyks-fahad.vercel.app/"],
+            "description": "This is simple Bangla ChatBot project"
+        },
+        {
+            "id": 7,
+            "title": "Insurance Fraud Detection",
+            "image": "https://i.ibb.co/2MCXpJ4/ifd.png",
+            "tools": [
+                "python",
+                "Sci-kit learn",
+                "Classification",
+                "ipywidgets"
+            ],
+            "date": "2023-10-15",
+            "links":  ["https://github.com/ks-fahad/Insurance_Fraud_Detection_Using_Ensemble_Technique",""],
+            "description": "This is machine learning project where sers put their data or insurance information and the system predicts whether the output is fraud or not fraud. This prediction depends on the user data tuple which includes vehicle claim amounts, number of vehicles involved, incident state, age of the customer, incident type, number of witnesses, incident type, incident city, and etc."
+        },
+        {
+            "id": 8,
+            "title": "Ice Cream Builder",
+            "image": "https://i.ibb.co/MgpWVMK/image.png",
+            "tools": [
+                "JavaScript",
+                "Bootstrap",
+                "React JS"
+            ],
+            "date": "2023-10-25",
+            "links":  ["https://github.com/ks-fahad/IceCreamBuilder","https://ice-cream-builder.vercel.app/"],
+            "description": "This is an ice cream maker project inspired by online tutorials where user can make their ice cream as per their choice."
+        },
+        {
+            "id": 9,
+            "title": "store-3i: Online e-commerce site",
+            "image": "https://i.ibb.co/HdfjVGV/image.png",
+            "tools": [
+                "JavaScript",
+                "Bootstrap",
+                "React JS",
+                "API"
+            ],
+            "date": "2023-12-05",
+            "links": ["https://github.com/ks-fahad/Store3i","https://store3i.vercel.app/"],
+            "description": "store3i is an e-commerce project with a great user interface and various options, including show categories and corresponding products with sorting options. Here user can select products with their quantity and see the total price."
+        }
+        
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    [
+        {
+            "title": "Hybrid Approach to Automated Contextual Story Generation in Bangla",
+            "type": "A Thesis Paper of Bechelor of Science",
+            "link": "www.paper.com/storyGBangla",
+            "contributor": [
+                {
+                    "name": "Md. Fahad Hossion",
+                    "profile": "ks-fahad.vercel.app"
+                },
+                {
+                    "name": "Likhan Mia",
+                    "profile": ""
+                },
+                {
+                    "name": "Saidur Rahman",
+                    "profile": ""
+                }
+            ],
+            "supervisor": [
+                {
+                    "name": "Tamim Al Mahmud",
+                    "profile": ""
+                }
+            ],
+            "publish": " March, 2024"
+        },
+        {
+            "title": "Coming",
+            "type": "",
+            "link": "",
+            "contributor": [
+                {
+                    "name": "",
+                    "profile": ""
+                }
+            ],
+            "supervisor": [
+                {
+                    "name": "none",
+                    "profile": ""
+                }
+            ],
+            "publish": "coming"
+        }
+    ]
+}

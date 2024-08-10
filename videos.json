@@ -76,18 +76,5 @@
                 "Education",
                 "Life Goal"
             ]
-        },
-        {
-            "id": 6,
-            "title": "This is Blog 7 and this is the last part",
-            "createdate": "2023-12-05",
-            "modifydate": "2023-12-05",
-            "image": "https://i.ibb.co/2Sb96nY/image.png",
-            "link": "https://www.youtube.com/@KSFahad",
-            "description": "Coming soon...",
-            "categorylist": [
-                "University",
-                "My Dairy"
-            ]
         }
 ]

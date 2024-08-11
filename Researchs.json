@@ -27,20 +27,15 @@
         },
         {
             "title": "Coming",
-            "type": "",
+            "type": "Deep Learning",
             "link": "",
             "contributor": [
                 {
-                    "name": "",
-                    "profile": ""
+                    "name": "Md. Fahad Hossion",
+                    "profile": "https://ks-fahad.vercel.app/"
                 }
             ],
-            "supervisor": [
-                {
-                    "name": "none",
-                    "profile": ""
-                }
-            ],
-            "publish": "coming"
+            "supervisor": [],
+            "publish": "coming soon.."
         }
 ]

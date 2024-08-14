@@ -26,8 +26,8 @@
             "publish": " March, 2024"
         },
         {
-            "title": "Coming",
-            "type": "Deep Learning",
+            "title": "---",
+            "type": "Research interest in Deep Learning",
             "link": "",
             "contributor": [
                 {
@@ -36,6 +36,19 @@
                 }
             ],
             "supervisor": [],
-            "publish": "coming soon.."
+            "publish": "coming soon..."
+        },
+        {
+            "title": "---",
+            "type": "Research interest in Networking",
+            "link": "",
+            "contributor": [
+                {
+                    "name": "Md. Fahad Hossion",
+                    "profile": "https://ks-fahad.vercel.app/"
+                }
+            ],
+            "supervisor": [],
+            "publish": "coming soon..."
         }
 ]

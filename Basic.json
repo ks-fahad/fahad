@@ -1,0 +1,163 @@
+[
+  {
+    "name": [
+        "Mohammed Fahad Hossion",
+        "Fahad"
+    ],
+    "designation": [
+        "student",
+        "web developer",
+        "Dreamer"
+    ],
+    "address": [
+        "Chauddagram, Cumilla, Bangladesh",
+        "Mirpur, Dhaka, Bangladesh"
+    ],
+    "cv": "https://drive.google.com/file/d/1xq56V054Ho5pP49hElgaiySbqWKBuGsG/view?usp=sharing",
+    "links": {
+        "github":"",
+        "facebook": "https://www.facebook.com/profile.php?id=61564227922898",
+        "instagram": "https://www.instagram.com/ksfahad.self/",
+        "youtube": "https://www.youtube.com/@KSFahad",
+        "twitter": "https://twitter.com/KSFahadSellf",
+        "threads": "https://www.threads.net/@ksfahad.self",
+        "researchgate": "",
+        "googlescholar": "",
+        "profile": "https://ks-fahad.vercel.app/"
+    },
+    "about": {
+        "details": "A computer science student who always tries to learn something interesting. Here, you will be told some information about me and my life. Firstly, in my life, I always try to be humble about learning new things and I am always hungry for knowledge that will help me achieve success in life.",
+        "skills": [
+            {
+                "name": "JavaScript",
+                "percent": 70
+            },
+            {
+                "name": "PHP",
+                "percent": 70
+            },
+            {
+                "name": "HTML",
+                "percent": 80
+            },
+            {
+                "name": "CSS",
+                "percent": 80
+            },
+            {
+                "name": "JAVA",
+                "percent": 65
+            },
+            {
+                "name": "C/C++",
+                "percent": 70
+            },
+            {
+                "name": "Python",
+                "percent": 75
+            },
+            {
+                "name": "SQL",
+                "percent": 70
+            },
+            {
+                "name": "Bash",
+                "percent": 50
+            }
+        ],
+        "KnownTools": {
+            "Visualisation": [
+                "Matplotlib",
+                "Seaborn"
+            ],
+            "Data Handling": [
+                "Numpy",
+                "OpenCV",
+                "Pandas"
+            ],
+            "Machine Learning": [
+                "Scikit-learn",
+                "Keras",
+                "PyTorch",
+                "Keras",
+                "TensorFlow",
+                "NLTK"
+            ],
+            "Frameworks": [
+                "Bootstrap",
+                "Next.JS",
+                "Django"
+            ],
+            "Operating Systems":["Windows", "Linux", "Android","iOS"],
+            "Document Creation":["LaTex", "MS Office","Google Docs"],
+            "Other Tools":["Figma","Lucidchart","Visual Paradigm", "Dbdiagram"]
+        },
+        "interest": {
+            "learning": [
+                [
+                    "Information Security Analyst",
+                    "https://i.ibb.co/r212RZw/What-Is-A-Cyber-Security-Analyst.jpg",
+                    "#1561ad"
+                ],
+                [
+                    "Artificial Intelligence Engineer",
+                    "https://i.ibb.co/zbwK1xV/latest-automation-projecst-for-engineers-min.jpg",
+                    "#663366"
+                ],
+                [
+                    "Data Scientist",
+                    "https://i.ibb.co/NsF4yDq/Data-Analyst.webp",
+                    "#20B2AA"
+                ],
+                [
+                    "Astronomer",
+                    "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_vector_art_of_an_astronomer_4dd4ac40-ecb2-4243-a77d-4598213bdf1f.webp",
+                    "#2E8B57"
+                ],
+                [
+                    "Bioinformatics Analyst",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Qh0qjvV3kfgDFCR8aZCVHyUWed-N_1tHRA&s",
+                    "#4f5f76"
+                ]
+            ],
+            "regular": [
+                [
+                    "Drawing",
+                    "https://i.ibb.co/4SbbFf5/Adobe-Stock-62652907-1.webp",
+                    "#D2B48C"
+                ],
+                [
+                    "Writing",
+                    "https://images.squarespace-cdn.com/content/v1/537cad0be4b02cb9fe04985f/1438704698248-TWKUDI932Y2VXOXNAUCJ/Writing.jpg",
+                    "#C0C0C0"
+                ],
+                [
+                    "Music",
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxvYUv60-oo9ovqtZBydFgfUwjZubUoLe-iQ&s",
+                    "#DDA0DD"
+                ],
+                [
+                    "Shopping",
+                    "https://i.ibb.co/Ptmv40p/images.jpg",
+                    "#D8BFD8"
+                ],
+                [
+                    "Cooking",
+                    "https://i.ibb.co/RYpdfr3/cooking.jpg",
+                    "#B0C4DE"
+                ],
+                [
+                    "Travelling",
+                    "https://i.ibb.co/6rwR8t0/travelling1.jpg",
+                    "#F0E68C"
+                ]
+            ]
+        }
+    },
+    "blogMsg": [
+        "Here you will find all the updated posts related to my blog. I categorize all blogs to find your specific want and you can search blogs using search option.",
+        "- Thank you for being with Me"
+    ],
+    "footer": "©2024 Md. Fahad Hossion, Last Update 10 August, 2024"
+}
+]

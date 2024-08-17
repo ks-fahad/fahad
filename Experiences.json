@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Internship in Frontend Developement",
+        "company": [
+            "Battery Low Interactive Ltd",
+            "https://batterylowinteractive.com/"
+        ],
+        "duration": [
+            "2023-10-15",
+            "2024-01-05"
+        ],
+        "done": [
+            "Worked on responsive design with CSS and React-Bootstrap",
+            "E-commerce Project Implement in Team with API"
+        ]
+    },
+    {
+        "title": "Student",
+        "company": [
+            "My Life #ks-fahad",
+            "/"
+        ],
+        "duration": [
+            "2007-01-01",
+            "present"
+        ],
+        "done": [
+            "MSc and BSc",
+            "HSC and SSC",
+            "JSC and PSC"
+        ]
+    }
+]

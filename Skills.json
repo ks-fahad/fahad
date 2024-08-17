@@ -1,6 +1,5 @@
 [
-   {
-      "Programming":[
+    "Programming":[
          {
             "name":"JavaScript",
             "percent":70
@@ -79,5 +78,4 @@
             "Dbdiagram"
          ]
       }
-   }
 ]

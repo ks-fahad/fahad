@@ -1,68 +1,83 @@
-[{"Programming": [
-            {
-                "name": "JavaScript",
-                "percent": 70
-            },
-            {
-                "name": "PHP",
-                "percent": 70
-            },
-            {
-                "name": "HTML",
-                "percent": 80
-            },
-            {
-                "name": "CSS",
-                "percent": 80
-            },
-            {
-                "name": "JAVA",
-                "percent": 65
-            },
-            {
-                "name": "C/C++",
-                "percent": 70
-            },
-            {
-                "name": "Python",
-                "percent": 75
-            },
-            {
-                "name": "SQL",
-                "percent": 70
-            },
-            {
-                "name": "Bash",
-                "percent": 50
-            }
-        ],
-
-        "Tools": {
-            "Visualisation": [
-                "Matplotlib",
-                "Seaborn"
-            ],
-            "Data Handling": [
-                "Numpy",
-                "OpenCV",
-                "Pandas"
-            ],
-            "Machine Learning": [
-                "Scikit-learn",
-                "Keras",
-                "PyTorch",
-                "Keras",
-                "TensorFlow",
-                "NLTK"
-            ],
-            "Frameworks": [
-                "Bootstrap",
-                "Next.JS",
-                "Django"
-            ],
-            "Operating Systems":["Windows", "Linux", "Android","iOS"],
-            "Document Creation":["LaTex", "MS Office","Google Docs"],
-            "Other Tools":["Figma","Lucidchart","Visual Paradigm", "Dbdiagram"]
-        }
-}
+[
+   {
+      "Programming":[
+         {
+            "name":"JavaScript",
+            "percent":70
+         },
+         {
+            "name":"PHP",
+            "percent":70
+         },
+         {
+            "name":"HTML",
+            "percent":80
+         },
+         {
+            "name":"CSS",
+            "percent":80
+         },
+         {
+            "name":"JAVA",
+            "percent":65
+         },
+         {
+            "name":"C/C++",
+            "percent":70
+         },
+         {
+            "name":"Python",
+            "percent":75
+         },
+         {
+            "name":"SQL",
+            "percent":70
+         },
+         {
+            "name":"Bash",
+            "percent":50
+         }
+      ],
+      "Tools":{
+         "Visualisation":[
+            "Matplotlib",
+            "Seaborn"
+         ],
+         "Data Handling":[
+            "Numpy",
+            "OpenCV",
+            "Pandas"
+         ],
+         "Machine Learning":[
+            "Scikit-learn",
+            "Keras",
+            "PyTorch",
+            "Keras",
+            "TensorFlow",
+            "NLTK"
+         ],
+         "Frameworks":[
+            "Bootstrap",
+            "Next.JS",
+            "Django"
+         ],
+         "Operating Systems":[
+            "Windows",
+            "Linux",
+            "Android",
+            "iOS"
+         ],
+         "Document Creation":[
+            "LaTex",
+            "MS Office",
+            "Google Docs"
+         ],
+         "Other Tools":[
+            "Figma",
+            "Lucidchart",
+            "Visual Paradigm",
+            "Dbdiagram"
+         ]
+      }
+   }
 ]

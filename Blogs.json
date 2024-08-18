@@ -13,7 +13,7 @@
         },
         {
             "id": 1,
-            "title": "Blog 2",
+            "title": "Test_Blog 2",
             "createdate": "2023-12-05",
             "modifydate": "2023-12-02",
             "image": "https://assets.entrepreneur.com/content/3x2/2000/20161219221121-GettyImages-498527747.jpeg?format=pjeg&auto=webp&crop=16:9&width=675&height=380",
@@ -25,7 +25,7 @@
         },
         {
             "id": 2,
-            "title": "Blog 3",
+            "title": "Test_Blog 3",
             "createdate": "2023-12-05",
             "modifydate": "2023-12-02",
             "image": "https://assets.entrepreneur.com/content/3x2/2000/20161219221121-GettyImages-498527747.jpeg?format=pjeg&auto=webp&crop=16:9&width=675&height=380",
@@ -37,7 +37,7 @@
         },
         {
             "id": 3,
-            "title": "Blog 4",
+            "title": "Test_Blog 4",
             "createdate": "2023-12-05",
             "modifydate": "2023-12-02",
             "image": "https://assets.entrepreneur.com/content/3x2/2000/20161219221121-GettyImages-498527747.jpeg?format=pjeg&auto=webp&crop=16:9&width=675&height=380",
@@ -49,7 +49,7 @@
         },
         {
             "id": 4,
-            "title": "Blog 5",
+            "title": "Test_Blog 5",
             "createdate": "2023-12-05",
             "modifydate": "2023-12-02",
             "image": "https://assets.entrepreneur.com/content/3x2/2000/20161219221121-GettyImages-498527747.jpeg?format=pjeg&auto=webp&crop=16:9&width=675&height=380",
@@ -61,7 +61,7 @@
         },
         {
             "id": 5,
-            "title": "Blog 6",
+            "title": "Test_Blog 6",
             "createdate": "2023-12-05",
             "modifydate": "2023-12-02",
             "image": "https://assets.entrepreneur.com/content/3x2/2000/20161219221121-GettyImages-498527747.jpeg?format=pjeg&auto=webp&crop=16:9&width=675&height=380",
@@ -73,7 +73,7 @@
         },
         {
             "id": 6,
-            "title": "Blog 7",
+            "title": "Test_Blog 7",
             "createdate": "2023-12-05",
             "modifydate": "2023-12-05",
             "image": "https://i.ibb.co/2Sb96nY/image.png",

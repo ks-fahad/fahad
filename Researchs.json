@@ -26,8 +26,8 @@
             "publish": " March, 2024"
         },
         {
-            "title": "---",
-            "type": "Research interest in Deep Learning",
+            "title": "Design and implementation of a directed grey-box fuzzer leveraging LLMs",
+            "type": "Thesis",
             "link": "",
             "contributor": [
                 {

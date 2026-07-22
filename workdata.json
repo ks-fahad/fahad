@@ -258,5 +258,15 @@
     "breakMinutes": "U2FsdGVkX1+DHIY6vz8mSUplMveEbDq8fPMoMJqlCk4=",
     "breakType": "U2FsdGVkX18X1vOd7RyeKC1k1f1fBTQ2P+zQZ8hqE7c=",
     "totalMinutes": "U2FsdGVkX19oijdY0ypPmwidhH9EmbI3piSz7zuzX/s="
+  },
+  {
+    "date": "U2FsdGVkX1+I92fU3RbvgEmHiSs4k13RGQo06S+mYYU=",
+    "start": "U2FsdGVkX1/t1SuDNDkeFO3mESxIsqCchBnV/wA7HgI=",
+    "finish": "U2FsdGVkX18wr14MAHCCfwXwTujpyaU1YLJyhXlk6sQ=",
+    "breakStart": "U2FsdGVkX1/g0vWGBkS1iv2cHvkWyW1X6lnycQt5t0Y=",
+    "breakEnd": "U2FsdGVkX1+sUHud+cebI/oWYurPQVvrTcWj6QKmFrE=",
+    "breakMinutes": "U2FsdGVkX18PG1KdcHVwbn9kW3Res3kDZHBbphfG1R4=",
+    "breakType": "U2FsdGVkX18s+DxmZKQ/pSpPDUvX0YIi2BTk7+PSNgw=",
+    "totalMinutes": "U2FsdGVkX19rXtTFaYaCyrYOIKd9fwhst8VqhL0+COA="
   }
 ]

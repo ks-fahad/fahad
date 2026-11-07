@@ -790,5 +790,27 @@
     "breakType": "U2FsdGVkX1/Dtx+WhW7EWg+r0JYeZDLMNV6stuwG1Lo=",
     "totalMinutes": "U2FsdGVkX19ZWTiALAdtJ5mVR0MhBakWbRLTdjJguko=",
     "note": "U2FsdGVkX18ss4OGS/z9YChQISiaJq9YUelTDL0z+3xUzUW6WiuoponKdkrxCZn0"
+  },
+  {
+    "date": "U2FsdGVkX19ywwQ4HSRSzF00DuAGg6Ff/UFOByTkEvk=",
+    "start": "U2FsdGVkX18ztZIWW5YvbnpJTQFnNvnBG6wOhuqPyOo=",
+    "finish": "U2FsdGVkX1/S+h5fto444LCglEs9LRs5/UA5YEPi0FQ=",
+    "breakStart": "",
+    "breakEnd": "",
+    "breakMinutes": "U2FsdGVkX19X8lbU3s6wefty6R6i/va/zo/PO2O4YF0=",
+    "breakType": "U2FsdGVkX1+H3V7dvFgXzhFCGqM+yraZv1PmwwL+1fg=",
+    "totalMinutes": "U2FsdGVkX19taV3stgWL8Bw51+mx+NAHBNfb/iM0bpU=",
+    "note": "U2FsdGVkX194HLiie+LxgS9AQg0yg643ZytXvDfkcFQ="
+  },
+  {
+    "date": "U2FsdGVkX198mMueQePdRSApneVQI5GTxYeQ5LmMU6U=",
+    "start": "U2FsdGVkX1/jnsl8fajTdLmq4smLnidQwOgHgIxnGT8=",
+    "finish": "U2FsdGVkX188+Y/MAuCiW9P87Ydq2RkUVddhO5dHPME=",
+    "breakStart": "U2FsdGVkX189KbVXt/fvfHY9ckV/3VDaek/3+r8lFuw=",
+    "breakEnd": "U2FsdGVkX1+vyyC6zxVbHPux4TXdQI8EiwRhavA9bXc=",
+    "breakMinutes": "U2FsdGVkX198n0SdbmI/+61gIDSZDJcrXqWb1FArqeo=",
+    "breakType": "U2FsdGVkX199TxjG7dIg/zqbwGXkmY37t6roQiDku2A=",
+    "totalMinutes": "U2FsdGVkX1+T+ZMkaLItsfbZHmMZUTnrKkEG8m2o2ZY=",
+    "note": "U2FsdGVkX1/SDaw78wlDSy3TSYO1ocnjWGSKzke0ZpX3EkD4JhmGFA/AnfVUoziv"
   }
 ]
